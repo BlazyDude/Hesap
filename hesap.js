@@ -16,8 +16,11 @@ if (islem === "topla") {
 } else if (islem === "bol") {
     sonuc = s1 / s2
 } else {
+    /* Yaratıcılık Başarılı */
     sonuc = "Doğru düzgün işlem giriniz"
 };
 
 
 console.log("Çıkan sonuç " + sonuc)
+
+/* Fork ile düzeltmeleri görüyorsan bana whatsapp tan şu kodu gönder: 9854456 */
